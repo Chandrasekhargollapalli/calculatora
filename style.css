@@ -1,0 +1,57 @@
+body{
+    background-image:url(yothi.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+}
+input{
+    font-size:30px;
+    color:black;
+}
+#chandu{
+    border:2px double green;
+    box-shadow:2px 3px 2px black;
+    width:300px;
+    height:340px;
+    margin:auto;
+    text-align:center;
+    padding-top:30px;
+    background-color:black;
+    border-radius:20px;
+    
+}
+#rakesh{
+    margin:0px;
+    width:300px;
+    height:px;
+    
+    
+}
+button{
+    font-size:20px;
+    border-radius:10px;
+    padding:5px;
+    width:60px;
+    height:40px;
+    box-shadow:2px 3px 2px rgb(214, 205, 205);
+    background-color:rgb(65, 150, 156);
+ 
+}
+#venkey{
+    width:245px;
+    height:30px;
+    border-radius:5px;
+    background-color:rgb(65, 150, 156);
+    box-shadow:4px 3px 5px rgb(219, 213, 213);
+
+}
+button:hover{
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+h1{
+    color:aliceblue;
+    font-size:60px;
+}
